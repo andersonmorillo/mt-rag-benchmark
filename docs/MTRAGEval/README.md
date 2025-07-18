@@ -16,7 +16,7 @@ The MTRAG Benchmark is released as the trial and training data for MTRAG. You ca
 * Task B: Generation with Reference Passages (Reference)
 * Task C: Generation with Retrieved Passages (RAG)
 
-Read more about our tasks in our [proposal](proposal.pdf)
+Read more about our tasks in our [proposal](../MT_RAG_SemEval_Proposal.pdf)
 
 # Evaluation Scripts
 
