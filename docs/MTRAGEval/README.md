@@ -8,7 +8,7 @@
 
 # Training and Trial Data
 
-The MTRAG Benchmark is released as the trial and training data for MTRAG. You can access the full dataset [here](../../README.md)
+The MTRAG Benchmark is released as the trial and training data for MTRAG. You can access the full dataset [here](https://github.com/IBM/mt-rag-benchmark/)
 
 # 📋 Tasks
 
