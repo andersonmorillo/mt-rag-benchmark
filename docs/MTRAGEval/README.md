@@ -20,8 +20,7 @@ Read more about our tasks in our [proposal](../MT_RAG_SemEval_Proposal.pdf)
 
 # Evaluation Scripts
 
-Stay Tuned! Coming Soon!
-
+Retrieval and Generation Evaluation Scripts are available on the GitHub repo! Please visit the evaluation [README](https://github.com/IBM/mt-rag-benchmark/blob/main/scripts/evaluation/README.md) for more information.
 # 📆 Timeline (Tentative)
 
 * Sample and Training data ready 15 July 2025
